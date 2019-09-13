@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第四章习题", "第四章习题\第四章习题.vcxproj", "{0AE5875F-84C7-42F6-9038-2A3B5ED94CF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AE5875F-84C7-42F6-9038-2A3B5ED94CF1}.Debug|x64.ActiveCfg = Debug|x64
+		{0AE5875F-84C7-42F6-9038-2A3B5ED94CF1}.Debug|x64.Build.0 = Debug|x64
+		{0AE5875F-84C7-42F6-9038-2A3B5ED94CF1}.Debug|x86.ActiveCfg = Debug|Win32
+		{0AE5875F-84C7-42F6-9038-2A3B5ED94CF1}.Debug|x86.Build.0 = Debug|Win32
+		{0AE5875F-84C7-42F6-9038-2A3B5ED94CF1}.Release|x64.ActiveCfg = Release|x64
+		{0AE5875F-84C7-42F6-9038-2A3B5ED94CF1}.Release|x64.Build.0 = Release|x64
+		{0AE5875F-84C7-42F6-9038-2A3B5ED94CF1}.Release|x86.ActiveCfg = Release|Win32
+		{0AE5875F-84C7-42F6-9038-2A3B5ED94CF1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B5EAB0F-3E7F-46C6-A77A-2AA474D8F607}
+	EndGlobalSection
+EndGlobal

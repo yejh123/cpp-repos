@@ -1,0 +1,9 @@
+The ideology behind the CreateInstall installer is based on two main principles.
+Complete control over the installation process and unlimited scalability. 
+If you want to know what your installation package does step by step and want to it to perform certain operations at certain times,
+CreateInstall is the perfect choice for you. 
+If other installers lack features, it is highly probable that these features are already implemented 
+or can be implemented in CreateInstall. 
+Even if your requirements for your installation packages change, CreateInstall can handle these changes. 
+When you install CreateInstall you also receive the additional application CreateInstall Assistant. 
+It has a very simple interface and allows you to quickly create installations without additional study of the program.
